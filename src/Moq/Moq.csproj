@@ -16,7 +16,7 @@
 	<PropertyGroup>
 		<!-- Properties related to NuGet packaging: -->
 		<IsPackable>True</IsPackable>
-		<PackageId>Moq</PackageId>
+		<PackageId>MoqNoTracking</PackageId>
 		<Title>Moq: an enjoyable mocking library</Title>
 		<Description>Moq is the most popular and friendly mocking framework for .NET.</Description>
 		<Authors>Daniel Cazzulino, kzu</Authors>
