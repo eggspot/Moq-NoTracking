@@ -7,8 +7,8 @@ Install https://www.nuget.org/packages/MoqNoTracking
 moq
 ===
 
-[![Version](https://img.shields.io/nuget/vpre/Moq.svg)](https://www.nuget.org/packages/Moq)
-[![Downloads](https://img.shields.io/nuget/dt/Moq.svg)](https://www.nuget.org/packages/Moq)
+[![Version](https://img.shields.io/nuget/vpre/Moq.svg)](https://www.nuget.org/packages/MoqNoTracking)
+[![Downloads](https://img.shields.io/nuget/dt/Moq.svg)](https://www.nuget.org/packages/MoqNoTracking)
 [![Documentation](https://img.shields.io/badge/docs-website-%23fc0)](http://moq.github.io/moq/)
 [![Discord Chat](https://img.shields.io/badge/chat-on%20discord-7289DA.svg)](https://discord.gg/8PtpGdu)
 
