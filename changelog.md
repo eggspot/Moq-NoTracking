@@ -77,7 +77,7 @@
 
 :twisted_rightwards_arrows: Merged:
 
-- Add ðŸ’œ SponsorLink support [\#1363](https://github.com/devlooped/moq/pull/1363) (@kzu)
+- Add ?? SponsorLink support [\#1363](https://github.com/devlooped/moq/pull/1363) (@kzu)
 
 ## [v4.20.0-beta](https://github.com/devlooped/moq/tree/v4.20.0-beta) (2023-08-03)
 
@@ -174,7 +174,7 @@
 - Update moved artifacts in upstream repos [\#1298](https://github.com/devlooped/moq/pull/1298) (@kzu)
 - Fix typo in the documentation of Mock`1.cs \#1 [\#1294](https://github.com/devlooped/moq/pull/1294) (@valentin-p)
 - Let `StubbedPropertiesSetup` figure out type parameter in a less fragile way [\#1281](https://github.com/devlooped/moq/pull/1281) (@stakx)
-- +Mâ–¼ includes [\#1280](https://github.com/devlooped/moq/pull/1280) (@github-actions[bot])
+- +M? includes [\#1280](https://github.com/devlooped/moq/pull/1280) (@github-actions[bot])
 - Update and maintain list of sponsors automatically [\#1279](https://github.com/devlooped/moq/pull/1279) (@kzu)
 
 ## [v4.18.2](https://github.com/devlooped/moq/tree/v4.18.2) (2022-08-02)
@@ -979,7 +979,7 @@
 - Does `SetupAllProperties` actually create any setups, or does it not? [\#681](https://github.com/devlooped/moq/issues/681)
 - Verification exception message produces incomplete call expression for delegate mocks  [\#678](https://github.com/devlooped/moq/issues/678)
 - Verification exception message does include configured setups for delegate mocks [\#677](https://github.com/devlooped/moq/issues/677)
-- `.Callback(â€¦)` after `.Returns(â€¦)` / `.CallBase()` causes a variety of issues [\#668](https://github.com/devlooped/moq/issues/668)
+- `.Callback(…)` after `.Returns(…)` / `.CallBase()` causes a variety of issues [\#668](https://github.com/devlooped/moq/issues/668)
 - Fluent API allows setting up a second callback that won't get involved if `.Throws()` is specified too [\#667](https://github.com/devlooped/moq/issues/667)
 - Fluent API allows setting the return value twice [\#666](https://github.com/devlooped/moq/issues/666)
 - Fluent API allows setting the return value and throwing an exception at the same time [\#665](https://github.com/devlooped/moq/issues/665)
@@ -1389,7 +1389,7 @@
 - Consistency regarding where exception messages are put: in code vs. in resources file [\#399](https://github.com/devlooped/moq/issues/399)
 - Moq in UWP needs NeutralResourcesLanguageAttribute  [\#393](https://github.com/devlooped/moq/issues/393)
 - Possible regression between 4.7.49 and 4.7.58? [\#383](https://github.com/devlooped/moq/issues/383)
-- System.NotSupportedException:â€œUnsupported expression: n =\> nâ€ [\#367](https://github.com/devlooped/moq/issues/367)
+- System.NotSupportedException:“Unsupported expression: n =\> n” [\#367](https://github.com/devlooped/moq/issues/367)
 - Throwing an exception nulls any out parameters [\#342](https://github.com/devlooped/moq/issues/342)
 - cannot mock a method to return null using LINQ syntax [\#337](https://github.com/devlooped/moq/issues/337)
 - Thread safety issue on setup   [\#326](https://github.com/devlooped/moq/issues/326)
